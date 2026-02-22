@@ -1,0 +1,3 @@
+# Rerouting System Audio on Rooted Android
+
+> These are my personal notes from trying to reroute audio output on a rooted Samsung Galaxy A9+ 5G tablet, which I will refer to by its model name (SM-X216B) from now on. This is not a guide or a recommendation but rather just a record of what I tried, what broke, what I understood (mostly, what I misunderstood), the compromises I had to accept, and what ended up working for me under specific constraints. Alongside this README, this repository also contains backups of key files I modified on my system and their altered versions; both of which are only included for reference and personal use. I am not responsible for damage, data loss or other issues that may result from improper use of these files.

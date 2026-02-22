@@ -1,0 +1,6 @@
+id=remote_submix_fix
+name=Remote Submix Enable
+version=1.0
+versionCode=1
+author=Tahskajuha
+description=Enable Remote Submix routing for V4A streaming
